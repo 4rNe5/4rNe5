@@ -22,35 +22,48 @@
 - **Swift**
     - SwiftUI → **Beginner**
         - UI Framework For Apple’s OS System
+
     - Swift Syntax → **Beginner**
         - Basic Swift Langage Syntax
+
     - Alamofire → **Beginner**
         - Swift Library for HTTP Networking
+
 - **C**
     - C Syntax → **Advanced**
         - Basic C Syntax
+
     - AES Encryption → **Elementary**
         - CLI AES Encryption Program Based on C
+
 - **Python**
     - Python Syntax → **Intermediate**
         - Basic Python Syntax
+
     - Pygame → **Beginner**
         - Library for multimedia representation Based on SDL
+
     - Python Web Crowling → **Beginner**
         - Web Crowling with Python Library
+
 - **Shell**
     - Basic Shell Command & Shell script → **Advanced**
         - Basic Shell Command
+
 - **Web (HTML + CSS + JS)**
     - Syntax → **Intermediate**
         - Basic Syntax Of HTML & CSS & JS for Making Web
+
 - **UI Design & Creator Tools**
     - Figma → **Intermediate**
         - Tool For Create the Best UI
+
     - Adobe Illustrator → **Intermediate**
         - Tool For Making Vector Image
+
     - GIMP → **Elementary**
         - Tool For Editing Bitmap Image
+
     - DaVinci Resolve → **Intermediate**
         - Video Editing Tool specialized in Color Correction
 
@@ -72,8 +85,6 @@
 - 📱 **SNS**
     - Instagram : [https://www.instagram.com/4_rne5](https://www.instagram.com/4_rne5/)
     - Discord : 4rNe5#5786
-- 💾 **Github**
-    - Link : [https://github.com/Wd2wad3](https://github.com/Wd2wad3)
 
 ## 📕 Study Note
 
