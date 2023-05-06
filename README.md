@@ -84,7 +84,7 @@
     - +82 010-2296-7428 (**Personal**)
 - 📱 **SNS**
     - Instagram : [https://www.instagram.com/4_rne5](https://www.instagram.com/4_rne5/)
-    - Discord : 4rNe5#5786
+    - Discord : 4rNe5#4545
 
 ## 📕 Study Note
 
