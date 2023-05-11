@@ -48,8 +48,8 @@
 ---
 
 - ✉️ **E-Mail**
-    - 4rNe5@duck.com (**Personal)**
+    - 4rNe5@duck.com (**Personal**)
     - 23wdwad@dgsw.hs.kr (**School**)
 - 📱 **SNS**
-    - Instagram : [https://www.instagram.com/4_rne5](https://www.instagram.com/4_rne5/)
-    - Discord : 4rNe5#5786
+    - **Instagram** : [https://www.instagram.com/4_rne5](https://www.instagram.com/4_rne5/)
+    - **Discord** : 4rNe5#5786
