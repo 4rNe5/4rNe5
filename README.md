@@ -40,7 +40,7 @@
 [![C](https://img.shields.io/badge/C-0356fc?logo=c&logoColor=white&style=for-the-badge)](https://developer.apple.com/swift/)
 [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge)](https://python.org/)
 [![Shell](https://img.shields.io/badge/Shell-189e06?logo=shell&logoColor=white&style=for-the-badge)](https://zsh.org/)
-[![GOLang](https://img.shields.io/badge/GO-189e06?logo=go&logoColor=white&style=for-the-badge)](https://go.dev/)
+[![GOLang](https://img.shields.io/badge/GO-18d9d6?logo=go&logoColor=white&style=for-the-badge)](https://go.dev/)
 [![JavaScript](https://img.shields.io/badge/JavaScript-b5b50b?logo=javascript&logoColor=white&style=for-the-badge)](https://developer.mozilla.org/ko/docs/Web/JavaScript)
 [![Figma](https://img.shields.io/badge/Figma-e630f0?logo=figma&logoColor=white&style=for-the-badge)](https://figma.com/)
 
