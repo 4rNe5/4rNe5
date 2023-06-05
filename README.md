@@ -1,5 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Passionate Developer&fontSize=80&animation=fadeIn&fontAlignY=40&desc=Wd2wad3">
-
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Passionate%20Dev&fontSize=80&animation=fadeIn&fontAlignY=40&desc=Wd2wad3)
 ## 😊 반갑습니다! 초보 고등학생 iOS 개발자 박준현입니다!
 
 ## 📈 My Study Graph!
@@ -8,7 +7,7 @@
 )
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/generate_badge?boj=23wdwad)](https://solved.ac/23wdwad)
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wd2wad3&layout=compact&theme=demo">
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Wd2wad3&langs_count=10&layout=compact)](https://github.com/Wd2wad3?tab=repositories)
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FWd2wad3&count_bg=%23000000&title_bg=%235C5959&icon=newrelic.svg&icon_color=%23E7E7E7&title=Today-Observer&edge_flat=false)](https://hits.seeyoufarm.com)
 ---
 
