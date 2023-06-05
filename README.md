@@ -39,11 +39,11 @@
 [![JavaScript](https://img.shields.io/badge/JavaScript-ffc800?logo=javascript&logoColor=black&style=for-the-badge)](https://developer.mozilla.org/ko/docs/Web/JavaScript)
 
 ## 🛠️ Tools
-[![Xcode](https://img.shields.io/badge/xcode-2f78ed?logo=xcode&logoColor=white&style=for-the-badge)](https://developer.apple.com/macos/)
-[![PyCharm](https://img.shields.io/badge/pycharm-b4f70a?logo=pycharm&logoColor=black&style=for-the-badge)](https://developer.apple.com/watchos/)
-[![Postman](https://img.shields.io/badge/postman-f06c38?logo=postman&logoColor=white&style=for-the-badge)](https://developer.apple.com/ios/)
-[![CLion](https://img.shields.io/badge/CLion-04942d?logo=clion&logoColor=white&style=for-the-badge)](https://developer.apple.com/swift/)
-[![VSC](https://img.shields.io/badge/VSCode-007ACC?logo=visualstudiocode&logoColor=white&style=for-the-badge)](https://developer.apple.com/swift/)
+[![Xcode](https://img.shields.io/badge/xcode-2f78ed?logo=xcode&logoColor=white&style=for-the-badge)](https://developer.apple.com/kr/xcode/)
+[![PyCharm](https://img.shields.io/badge/pycharm-b4f70a?logo=pycharm&logoColor=black&style=for-the-badge)](https://www.jetbrains.com/ko-kr/pycharm/)
+[![CLion](https://img.shields.io/badge/CLion-04942d?logo=clion&logoColor=white&style=for-the-badge)](https://www.jetbrains.com/ko-kr/clion/)
+[![VSC](https://img.shields.io/badge/VSCode-007ACC?logo=visualstudiocode&logoColor=white&style=for-the-badge)](https://code.visualstudio.com/)
+[![Postman](https://img.shields.io/badge/postman-f06c38?logo=postman&logoColor=white&style=for-the-badge)](https://www.postman.com/)
 [![Figma](https://img.shields.io/badge/Figma-e630f0?logo=figma&logoColor=white&style=for-the-badge)](https://figma.com/)
 ---
 
