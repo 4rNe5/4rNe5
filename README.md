@@ -29,7 +29,7 @@
 [![C](https://img.shields.io/badge/C-0356fc?logo=c&logoColor=white&style=for-the-badge)](https://developer.apple.com/swift/)
 [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge)](https://python.org/)
 [![Shell](https://img.shields.io/badge/Shell-189e06?logo=shell&logoColor=white&style=for-the-badge)](https://zsh.org/)
-[![GOLang](https://img.shields.io/badge/GO-0095ff?logo=go&logoColor=white&style=for-the-badge)](https://go.dev/)
+[![GO](https://img.shields.io/badge/GO-0095ff?logo=go&logoColor=white&style=for-the-badge)](https://go.dev/)
 [![web](https://img.shields.io/badge/web-000000?logo=googleearth&logoColor=white&style=for-the-badge)](https://developer.apple.com/macos/)
 [![HTML](https://img.shields.io/badge/HTML-ff7d03?logo=html5&logoColor=white&style=for-the-badge)](https://www.w3.org/)
 [![CSS](https://img.shields.io/badge/CSS-0318ff?logo=css3&logoColor=white&style=for-the-badge)](https://www.w3.org/)
