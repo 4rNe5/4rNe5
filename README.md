@@ -1,5 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Passion%20Fullstack%20Develper&fontSize=65&animation=fadeIn&fontAlignY=40&desc=Wd2wad3)
-## 😊 반갑습니다! 초보 고등학생 iOS 개발자 박준현입니다!
+## 😊 반갑습니다! 초보 고등학생 개발자 박준현입니다!
 
 ## 📈 My Study Graph!
 
