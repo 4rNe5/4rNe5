@@ -56,4 +56,4 @@
     - 23wdwad@dgsw.hs.kr (**School**)
 - 📱 **SNS**
     - **Instagram** : [https://www.instagram.com/4_rne5](https://www.instagram.com/4_rne5/)
-    - **Discord** : 4rNe5#4545
+    - **Discord** : __4_rne5__
