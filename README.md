@@ -43,7 +43,7 @@
 [![CSS](https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://www.w3.org/)
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)](https://developer.mozilla.org/ko/docs/Web/JavaScript)
 [![Node.js](https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white)](https://nodejs.org)
-[![RN](https://img.shields.io/badge/react--Native-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://flutter.dev/)
+[![RN](https://img.shields.io/badge/react--Native-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://reactnative.dev/)
 
 ## 🛠️ Tools
 [![Xcode](https://img.shields.io/badge/xcode-2f78ed?logo=xcode&logoColor=white&style=for-the-badge)](https://developer.apple.com/kr/xcode/)
