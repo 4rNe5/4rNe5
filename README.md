@@ -34,6 +34,7 @@
 [![ObjC](https://img.shields.io/badge/Objective--C-00599C?logo=apple&logoColor=white&style=for-the-badge)](https://developer.apple.com/swift/)
 [![C](https://img.shields.io/badge/C-0356fc?logo=c&logoColor=white&style=for-the-badge)](https://developer.apple.com/swift/)
 [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge)](https://python.org/)
+[![Dart](https://img.shields.io/badge/Dart-0175C2?logo=dart&logoColor=white&style=for-the-badge)](https://dart.dev/)
 [![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white&style=for-the-badge)](https://flutter.dev/)
 [![Shell](https://img.shields.io/badge/Shell-5391FE?logo=powershell&logoColor=white&style=for-the-badge)](https://zsh.org/)
 [![GO](https://img.shields.io/badge/GO-00ADD8?logo=go&logoColor=white&style=for-the-badge)](https://go.dev/)
