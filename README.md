@@ -66,7 +66,8 @@
 ---
 
 - ✉️ **E-Mail**
-    - 4rNe5@duck.com (**Personal**)
+    - me@4rne5.dev (**Personal**)
+    - 4rne5@duck.com (**Business**) 
     - 23wdwad@dgsw.hs.kr (**School**)
 - 📱 **SNS**
     - **Instagram** : [https://www.instagram.com/4_rne5](https://www.instagram.com/4_rne5/)
