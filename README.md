@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Intrinsic%20iOS%20Developer&fontSize=65&animation=fadeIn&fontAlignY=40&desc=4rNe5)
 ## 😊 반갑습니다! 고등학생 iOS 개발자 박준현입니다!
 
-## 📈 My Study Graph!
+## 📈 My Graph!
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=4rNe5)](https://github.com/4rNe5)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=23wdwad)](https://solved.ac/23wdwad)
