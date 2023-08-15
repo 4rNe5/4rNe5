@@ -1,12 +1,14 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Intrinsic%20iOS%20Developer&fontSize=65&animation=fadeIn&fontAlignY=40&desc=4rNe5)
-## 😊 반갑습니다! 고등학생 iOS 개발자 박준현입니다!
+# 🧠 About ME!
+***
 
 ## 📈 My Graph!
+
+---
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=4rNe5)](https://github.com/4rNe5)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=23wdwad)](https://solved.ac/23wdwad)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=4rNe5&langs_count=10&layout=compact)]()
----
 
 ## 📊 My Career
 
@@ -45,13 +47,13 @@
 [![django](https://img.shields.io/badge/flask-000000?style=for-the-badge&logo=flask&logoColor=white)](https://flask.palletsprojects.com/en/2.3.x/)
 [![HTML](https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://www.w3.org/)
 [![CSS](https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://www.w3.org/)
-[![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)](https://www.w3.org/)
-[![tailwindcss](https://img.shields.io/badge/tailwindcss-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)](https://www.w3.org/)
+[![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)](https://getbootstrap.com/)
+[![tailwindcss](https://img.shields.io/badge/tailwindcss-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)](https://tailwindcss.com/)
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)](https://developer.mozilla.org/ko/docs/Web/JavaScript)
 [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge)](https://developer.mozilla.org/ko/docs/Web/JavaScript)
 [![Node.js](https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white)](https://nodejs.org)
 [![Node.js](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)](https://www.npmjs.com/)
-[![React](https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://reactnative.dev/)
+[![React](https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://react.dev/)
 [![RN](https://img.shields.io/badge/react_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://reactnative.dev/)
 
 ## 🛠️ Tools
@@ -59,7 +61,7 @@
 ---
 
 [![Xcode](https://img.shields.io/badge/xcode-2f78ed?logo=xcode&logoColor=white&style=for-the-badge)](https://developer.apple.com/kr/xcode/)
-[![androidstudio](https://img.shields.io/badge/Android_Studio-3DDC84?logo=androidstudio&logoColor=white&style=for-the-badge)](https://developer.apple.com/kr/xcode/)
+[![androidstudio](https://img.shields.io/badge/Android_Studio-3DDC84?logo=androidstudio&logoColor=white&style=for-the-badge)](https://developer.android.com/studio)
 [![PyCharm](https://img.shields.io/badge/pycharm-b4f70a?logo=pycharm&logoColor=black&style=for-the-badge)](https://www.jetbrains.com/ko-kr/pycharm/)
 [![Webstorm](https://img.shields.io/badge/webstorm-61BAFB?logo=webstorm&logoColor=white&style=for-the-badge)](https://www.jetbrains.com/ko-kr/pycharm/)
 [![CLion](https://img.shields.io/badge/CLion-04942d?logo=clion&logoColor=white&style=for-the-badge)](https://www.jetbrains.com/ko-kr/clion/)
