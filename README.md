@@ -7,7 +7,7 @@
 ---
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=4rNe5)](https://github.com/4rNe5)
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=topology)](https://solved.ac/23wdwad)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=23wdwad)](https://solved.ac/23wdwad)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=4rNe5&langs_count=10&layout=compact)]()
 
 ## 📊 My Career
