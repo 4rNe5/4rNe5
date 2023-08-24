@@ -37,7 +37,7 @@
 ---
 [![Swift](https://img.shields.io/badge/Swift-F05138?logo=swift&logoColor=white&style=for-the-badge)](https://developer.apple.com/swift/)
 [![ObjC](https://img.shields.io/badge/Objective--C-00599C?logo=apple&logoColor=white&style=for-the-badge)](https://developer.apple.com/swift/)
-[![C](https://img.shields.io/badge/C/C++-0356fc?logo=c&logoColor=white&style=for-the-badge)](https://developer.apple.com/swift/)
+[![C/C++](https://img.shields.io/badge/C/C++-0356fc?logo=c&logoColor=white&style=for-the-badge)](https://developer.apple.com/swift/)
 [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge)](https://python.org/)
 [![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white&style=for-the-badge)](https://python.org/)
 [![Dart](https://img.shields.io/badge/Dart-0175C2?logo=dart&logoColor=white&style=for-the-badge)](https://dart.dev/)
@@ -45,7 +45,7 @@
 [![Shell](https://img.shields.io/badge/Shell-5391FE?logo=powershell&logoColor=white&style=for-the-badge)](https://zsh.org/)
 [![django](https://img.shields.io/badge/django-092E20?style=for-the-badge&logo=django&logoColor=white)](https://djangoproject.com)
 [![flask](https://img.shields.io/badge/flask-000000?style=for-the-badge&logo=flask&logoColor=white)](https://flask.palletsprojects.com/en/2.3.x/)
-[![flask](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)](https://flask.palletsprojects.com/en/2.3.x/)
+[![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)](https://flask.palletsprojects.com/en/2.3.x/)
 [![HTML](https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://www.w3.org/)
 [![CSS](https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://www.w3.org/)
 [![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)](https://getbootstrap.com/)
@@ -79,7 +79,7 @@
 [![AWS](https://img.shields.io/badge/aws-232F3E?logo=amazonaws&logoColor=white&style=for-the-badge)](https://aws.amazon.com/ko/)
 [![Azure](https://img.shields.io/badge/Azure-0078D4?logo=microsoftazure&logoColor=white&style=for-the-badge)](https://azure.microsoft.com/ko-kr)
 [![Heroku](https://img.shields.io/badge/heroku-430098?logo=heroku&logoColor=white&style=for-the-badge)](https://www.heroku.com/)
-[![Heroku](https://img.shields.io/badge/GCP-4285F4?logo=googlecloud&logoColor=white&style=for-the-badge)](https://www.heroku.com/)
+[![GCP](https://img.shields.io/badge/GCP-4285F4?logo=googlecloud&logoColor=white&style=for-the-badge)](https://cloud.google.com/?hl=ko)
 [![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com)
 
 
