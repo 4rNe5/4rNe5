@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Intrinsic%20iOS%20Developer&fontSize=65&animation=fadeIn&fontAlignY=40&desc=4rNe5)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Intrinsic%20iOS%20Developer&fontSize=70&animation=fadeIn&fontAlignY=40&desc=4rNe5)
 # 🧠 Hello! I'm 4rNe5 / 박준현!
 
 ## 📈 My Graph!
@@ -52,8 +52,8 @@
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)](https://developer.mozilla.org/ko/docs/Web/JavaScript)
 [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge)](https://developer.mozilla.org/ko/docs/Web/JavaScript)
 [![Node.js](https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white)](https://nodejs.org)
-[![express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=Express&logoColor=white)](https://nodejs.org)
 [![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)](https://www.npmjs.com/)
+[![express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=Express&logoColor=white)](https://nodejs.org)
 [![React](https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://react.dev/)
 [![RN](https://img.shields.io/badge/react_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://reactnative.dev/)
 [![Svelte](https://img.shields.io/badge/Svelte-FF3E00?style=for-the-badge&logo=svelte&logoColor=white)](https://react.dev/)
@@ -83,14 +83,15 @@
 
 
 
-## ☎️ Contacts
+## ☎️ Contact Me
 
 ---
 
-- ✉️ **E-Mail**
-    - me@4rne5.dev (**Personal**)
-    - 4rne5@proton.me (**Business**) 
-    - 23wdwad@dgsw.hs.kr (**School**)
+- ✉️ **E-Mail (Click to Send)**
+    - [**Personal**](mailto:me@4rne5.dev)
+    - [**Business**](mailto:4rne5@proton.me)
+    - [**DGSW Mail**](mailto:23wdwad@dgsw.hs.kr)
 - 📱 **SNS**
-    - **Instagram** : [https://www.instagram.com/4_rne5](https://www.instagram.com/4_rne5/)
-    - **Discord** : __4_rne5__
+    - [**Instagram**](https://www.instagram.com/4_rne5/)
+    - [**Discord**](https://www.discord.com/users/796907962811285506)
+    - [**Telegram**](https://t.me/A4rne5)
