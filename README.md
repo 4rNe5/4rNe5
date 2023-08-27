@@ -31,6 +31,7 @@
 [![iOS](https://img.shields.io/badge/iOS-000000?logo=apple&logoColor=white&style=for-the-badge)](https://developer.apple.com/ios/)
 [![android](https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white&style=for-the-badge)](https://developer.apple.com/ios/)
 [![web](https://img.shields.io/badge/web-000000?logo=googleearth&logoColor=white&style=for-the-badge)](https://w3.org)
+
 ## 📕 My **Skills**
 
 ---
