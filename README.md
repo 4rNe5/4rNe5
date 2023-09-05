@@ -1,15 +1,11 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Intrinsic%20iOS%20Developer&fontSize=70&animation=fadeIn&fontAlignY=40&desc=4rNe5)
-# 🧠 Hello! I'm 4rNe5 / 박준현!
-
-## 📈 My Graph!
-
----
+***
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=4rNe5)](https://github.com/4rNe5)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=23wdwad)](https://solved.ac/23wdwad)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=4rNe5&langs_count=10&layout=compact)]()
 
-## 📊 My Career
+## 📈 My Career
 
 ---
 
@@ -23,7 +19,7 @@
 🏅23회 Appjam 해커톤 미래산업부문 우수상 수상 (2023.8)
 </aside>
 
-## 📕 My **Platforms**
+## 💠 My **Platforms**
 
 ---
 [![macOS](https://img.shields.io/badge/macos-000000?logo=apple&logoColor=white&style=for-the-badge)](https://developer.apple.com/macos/)
@@ -32,7 +28,7 @@
 [![android](https://img.shields.io/badge/Android-000000?logo=android&logoColor=white&style=for-the-badge)](https://developer.android.com/?hl=ko)
 [![web](https://img.shields.io/badge/web-000000?logo=googleearth&logoColor=white&style=for-the-badge)](https://w3.org)
 
-## 📕 My **Skills**
+## 🌀 My **Skills**
 
 ---
 [![Swift](https://img.shields.io/badge/Swift-F05138?logo=swift&logoColor=white&style=for-the-badge)](https://developer.apple.com/swift/)
@@ -84,7 +80,7 @@
 
 
 
-## ☎️ Contact Me
+## 🔗 Contact Me
 
 ---
 
