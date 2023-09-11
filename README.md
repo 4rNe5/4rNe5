@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Intrinsic%20iOS%20Developer&fontSize=70&animation=fadeIn&fontAlignY=40&desc=4rNe5)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=350&section=header&text=Intrinsic%20iOS%20Developer&fontSize=75&animation=fadeIn&fontAlignY=40&desc=4rNe5)
 ***
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=4rNe5)](https://github.com/4rNe5)
@@ -42,10 +42,10 @@
 [![django](https://img.shields.io/badge/django-092E20?style=for-the-badge&logo=django&logoColor=white)](https://djangoproject.com)
 [![flask](https://img.shields.io/badge/flask-000000?style=for-the-badge&logo=flask&logoColor=white)](https://flask.palletsprojects.com/en/2.3.x/)
 [![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com/ko/)
+[![Realm](https://img.shields.io/badge/Realm-39477F?style=for-the-badge&logo=realm&logoColor=white)](https://fastapi.tiangolo.com/ko/)
 [![HTML](https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://www.w3.org/)
 [![CSS](https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://www.w3.org/)
 [![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)](https://getbootstrap.com/)
-[![tailwindcss](https://img.shields.io/badge/tailwindcss-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)](https://tailwindcss.com/)
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)](https://developer.mozilla.org/ko/docs/Web/JavaScript)
 [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge)](https://www.typescriptlang.org/)
 [![Node.js](https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white)](https://nodejs.org)
@@ -53,6 +53,7 @@
 [![express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=Express&logoColor=white)](https://nodejs.org)
 [![React](https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://react.dev/)
 [![RN](https://img.shields.io/badge/react_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://reactnative.dev/)
+[![next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)](https://react.dev/)
 [![Svelte](https://img.shields.io/badge/Svelte-FF3E00?style=for-the-badge&logo=svelte&logoColor=white)](https://svelte.dev/)
 
 ## 🛠️ Tools
@@ -66,6 +67,7 @@
 [![CLion](https://img.shields.io/badge/CLion-04942d?logo=clion&logoColor=white&style=for-the-badge)](https://www.jetbrains.com/ko-kr/clion/)
 [![VSC](https://img.shields.io/badge/VSCode-007ACC?logo=visualstudiocode&logoColor=white&style=for-the-badge)](https://code.visualstudio.com/)
 [![Postman](https://img.shields.io/badge/postman-f06c38?logo=postman&logoColor=white&style=for-the-badge)](https://www.postman.com/)
+[![GitKraken](https://img.shields.io/badge/Gitkraken-179287?logo=gitkraken&logoColor=white&style=for-the-badge)](https://www.postman.com/)
 [![Figma](https://img.shields.io/badge/Figma-e630f0?logo=figma&logoColor=white&style=for-the-badge)](https://figma.com/)
 
 ## ☁️ Cloud & DevOps Skill
@@ -76,6 +78,9 @@
 [![Azure](https://img.shields.io/badge/Azure-0078D4?logo=microsoftazure&logoColor=white&style=for-the-badge)](https://azure.microsoft.com/ko-kr)
 [![Heroku](https://img.shields.io/badge/heroku-430098?logo=heroku&logoColor=white&style=for-the-badge)](https://www.heroku.com/)
 [![GCP](https://img.shields.io/badge/GCP-4285F4?logo=googlecloud&logoColor=white&style=for-the-badge)](https://cloud.google.com/?hl=ko)
+[![Netlify](https://img.shields.io/badge/Netlify-00C7B7?logo=netlify&logoColor=white&style=for-the-badge)](https://www.netlify.com/)
+[![Vercel](https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white&style=for-the-badge)](https://vercel.com/)
+[![Firebase](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black&style=for-the-badge)](https://cloud.google.com/?hl=ko)
 [![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com)
 
 
