@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=320&section=header&text=Intrinsic%20iOS%20Developer&fontSize=75&animation=fadeIn&fontAlignY=40&desc=4rNe5)
+=======
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=350&section=header&text=Intrinsic%20iOS%20Developer&fontSize=75&animation=fadeIn&fontAlignY=40&desc=4rNe5)
+>>>>>>> master
 ***
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=4rNe5&theme=swift)](https://github.com/4rNe5)
