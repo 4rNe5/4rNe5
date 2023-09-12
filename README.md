@@ -2,7 +2,11 @@
 ***
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=4rNe5&theme=swift)](https://github.com/4rNe5)
+<br>
+
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=23wdwad)](https://solved.ac/23wdwad)
+<br>
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=4rNe5&theme=swift&langs_count=10&layout=compact)]()
 
 ## 📈 My Career
@@ -10,10 +14,10 @@
 
 <aside>
 💡 중학교 정보동아리 운영 (2022.4 ~ 2023.1)
+<br>
 
- 
 💡 대구소프트웨어고등학교 재학중 (2023.3 ~)
-
+<br>
 
 🏅23회 Appjam 해커톤 미래산업부문 우수상 수상 (2023.8)
 </aside>
