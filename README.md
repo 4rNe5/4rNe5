@@ -28,7 +28,6 @@
 [![macOS](https://img.shields.io/badge/macos-000000?logo=apple&logoColor=white&style=for-the-badge)](https://developer.apple.com/macos/)
 [![watchOS](https://img.shields.io/badge/watchOS-000000?logo=apple&logoColor=white&style=for-the-badge)](https://developer.apple.com/watchos/)
 [![iOS](https://img.shields.io/badge/iOS-000000?logo=apple&logoColor=white&style=for-the-badge)](https://developer.apple.com/ios/)
-[![android](https://img.shields.io/badge/Android-000000?logo=android&logoColor=white&style=for-the-badge)](https://developer.android.com/?hl=ko)
 [![web](https://img.shields.io/badge/web-000000?logo=googleearth&logoColor=white&style=for-the-badge)](https://w3.org)
 
 ## 🌀 My **Skills**
