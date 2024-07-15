@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=320&section=header&text=Intrinsic%20iOS%20Developer&fontSize=75&animation=fadeIn&fontAlignY=40&desc=4rNe5)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=320&section=header&text=Intrinsic%20Developer&fontSize=75&animation=fadeIn&fontAlignY=40&desc=4rNe5)
 ***
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=4rNe5&theme=swift)](https://github.com/4rNe5)
@@ -22,9 +22,7 @@
 
 ---
 [![Swift](https://img.shields.io/badge/Swift-F05138?logo=swift&logoColor=white&style=for-the-badge)](https://developer.apple.com/swift/)
-[![ObjC](https://img.shields.io/badge/Objective--C-00599C?logo=apple&logoColor=white&style=for-the-badge)](https://developer.apple.com/swift/)
 [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge)](https://python.org/)
-[![CSS](https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://www.w3.org/)
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)](https://developer.mozilla.org/ko/docs/Web/JavaScript)
 [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge)](https://www.typescriptlang.org/)
 [![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)](https://www.npmjs.com/)
