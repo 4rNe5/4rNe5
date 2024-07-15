@@ -24,7 +24,6 @@
 [![Swift](https://img.shields.io/badge/Swift-F05138?logo=swift&logoColor=white&style=for-the-badge)](https://developer.apple.com/swift/)
 [![ObjC](https://img.shields.io/badge/Objective--C-00599C?logo=apple&logoColor=white&style=for-the-badge)](https://developer.apple.com/swift/)
 [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge)](https://python.org/)
-[![Shell](https://img.shields.io/badge/Shell-5391FE?logo=powershell&logoColor=white&style=for-the-badge)](https://zsh.org/)
 [![CSS](https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://www.w3.org/)
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)](https://developer.mozilla.org/ko/docs/Web/JavaScript)
 [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge)](https://www.typescriptlang.org/)
@@ -50,11 +49,9 @@
 
 [![AWS](https://img.shields.io/badge/aws-232F3E?logo=amazonaws&logoColor=white&style=for-the-badge)](https://aws.amazon.com/ko/)
 [![Azure](https://img.shields.io/badge/Azure-0078D4?logo=microsoftazure&logoColor=white&style=for-the-badge)](https://azure.microsoft.com/ko-kr)
-[![Heroku](https://img.shields.io/badge/heroku-430098?logo=heroku&logoColor=white&style=for-the-badge)](https://www.heroku.com/)
 [![GCP](https://img.shields.io/badge/GCP-4285F4?logo=googlecloud&logoColor=white&style=for-the-badge)](https://cloud.google.com/?hl=ko)
 [![Vercel](https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white&style=for-the-badge)](https://vercel.com/)
 [![Firebase](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black&style=for-the-badge)](https://cloud.google.com/?hl=ko)
-[![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com)
 
 
 
