@@ -44,8 +44,7 @@
 
 ---
 
-[![AWS](https://img.shields.io/badge/aws-232F3E?logo=amazonaws&logoColor=white&style=for-the-badge)](https://aws.amazon.com/ko/)
-[![GCP](https://img.shields.io/badge/GCP-4285F4?logo=googlecloud&logoColor=white&style=for-the-badge)](https://cloud.google.com/?hl=ko)
+[![AWS](https://img.shields.io/badge/aws-232F3E?logo=amazon&logoColor=white&style=for-the-badge)](https://aws.amazon.com/ko/)
 [![Vercel](https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white&style=for-the-badge)](https://vercel.com/)
 [![Firebase](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black&style=for-the-badge)](https://cloud.google.com/?hl=ko)
 
