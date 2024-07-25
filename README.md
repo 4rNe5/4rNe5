@@ -1,10 +1,7 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=320&section=header&text=Intrinsic%20Developer&fontSize=75&animation=fadeIn&fontAlignY=40&desc=4rNe5)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Intrinsic%20Developer&fontSize=75&animation=fadeIn&fontAlignY=40&desc=4rNe5)
 ***
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=4rNe5&theme=swift)](https://github.com/4rNe5)
-<br>
-
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=23wdwad)](https://solved.ac/23wdwad)
 <br>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=4rNe5&theme=swift&langs_count=10&layout=compact)]()
